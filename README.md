@@ -1,8 +1,8 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F54b6c068097599.5b50bca476b9b.gif&f=1&nofb=1&ipt=da46c65ad6ff3e4d3f9ce8278ba544d92928bbe5a5c3f81fab080a51d0d566cf&ipo=images)
 <h1 align="center">Hi 👋, I'm Nourhaine Ayadi</h1>
-<h3 align="center">IT Student at the Higher Institute of Technology studies of Bizerte/Tunisia</h3>
+<h3 align="center">IT Student at the Higher Institute of Technology studies of Rades/Tunisia</h3>
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif">
-- 🌱 I’m currently learning **Flutter and Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **ayadinourhaine@gmail.com**
 
